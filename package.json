@@ -1,5 +1,5 @@
 {
-  "name": "antoniahe",
+  "name": "dubbo-node-service",
   "version": "1.0.1",
   "description": "node调用dubbo服务",
   "main": "index.js",
