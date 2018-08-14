@@ -1,0 +1,23 @@
+{
+  "name": "antoniahe",
+  "version": "1.0.1",
+  "description": "node调用dubbo服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoniaHE/dubbo-node-service.git"
+  },
+  "keywords": [
+    "dubbo",
+    "node"
+  ],
+  "author": "antonia he",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoniaHE/dubbo-node-service/issues"
+  },
+  "homepage": "https://github.com/AntoniaHE/dubbo-node-service#readme"
+}
